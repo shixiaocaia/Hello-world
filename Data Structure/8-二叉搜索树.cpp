@@ -59,33 +59,40 @@ Bintree Insert(Bintree H, int x)
 
 }
 
-Bintree Deletee(int X, Bintree BST) {
+Bintree Delete(Bintree H, int x)
+{
 	Bintree tmp;
-	if (!BST)
-		cout << "要删除的元素未找到";
-	else if (X < BST->Data)   // X 比当前结点值小，在左子树继续查找删除 
-		BST->Left = Deletee(X, BST->Left);
-	else if (BST->Data < X)   // X 比当前结点值大，在右子树继续查找删除 
-		BST->Right = Deletee(X, BST->Right);
-	else {  //  找到被删除结点 
-		if (BST->Left && BST->Right) {  // 被删除结点有俩孩子结点 
-			tmp = FindMin(BST->Right);   // 找到右子树中值最小的
-			BST->Data = tmp->Data;     // 用找到的值覆盖当前结点 
-			BST->Right = Deletee(tmp->Data, BST->Right);    // 把前面找到的右子树最小值结点删除 
+	if (!H)
+	{
+		printf("tree is empty\n");
+		return 0;
+	}
+	else if (x > H->Data)	H->Right = Delete(H->Right, x);
+	else if (x < H->Data)	H->Left = Delete(H->Left, x);
+	else {
+		//被删除的节点有两个孩子
+		if (H->Left && H->Right)
+		{
+			//用左子树的最大值：一定大于左子树所有值，小于右子树所有值
+			//用右子树的最小值：一定大于左子树所有值，小于右子树所有值
+			tmp=FindMin(H->Right);
+			H->Data = tmp->Data;
+			H->Right = Delete(H->Right, tmp->Data);
+			
 		}
-		else {  // 被删除结点只有一个孩子结点或没有孩子结点 
-			tmp = BST;
-			if (!BST->Left && !BST->Right)  // 没有孩子结点 
-				BST = NULL;
-			else if (BST->Left && !BST->Right)  // 只有左孩子结点 
-				BST = BST->Left;
-			else if (!BST->Left && BST->Right)  // 只有右孩子结点 
-				BST = BST->Right;
+		//只有一个孩子或者没有孩子
+		else {
+			tmp = H;
+			if (!H->Left && !H->Right)	H = NULL;
+			else if (!H->Left&&H->Right) 	H = H->Right;
+			else if (H->Left && !H->Right) H = H->Left;
 			free(tmp);
 		}
+		//return H;
 	}
-	return BST;
+	return H;//递归返回的位置
 }
+
 
 
 void Inordertraversal(Bintree H)
