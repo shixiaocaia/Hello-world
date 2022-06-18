@@ -1,5 +1,7 @@
 # Hello-world
 学无止境
+## 入门网站mark
+- [freecodemap](https://chinese.freecodecamp.org/learn/)
 
 ## 机器学习
 -  吴恩达老师：英文coursera机器学习、深度学习 
@@ -18,3 +20,4 @@
 - ai for everybody课程
 - [数据分析numpy 100题](https://www.yanxishe.com/columnDetail/24784)
 - [pandas 100题](https://www.yanxishe.com/columnDetail/17112)
+
