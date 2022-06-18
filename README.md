@@ -6,7 +6,7 @@
 ## 机器学习
 -  吴恩达老师：英文coursera机器学习、深度学习 
 -  [李宏毅老师深度学习课程录像，历年课件和作业代码 ](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php) 
--  学习网站
+-  项目学习网站
    - https://github.com/apachecn/ailearning
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
 ## Python
