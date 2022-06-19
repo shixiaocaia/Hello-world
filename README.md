@@ -1,7 +1,7 @@
 # Hello-world
 学无止境
 ## 入门网站mark
-- [freecodemap](https://chinese.freecodecamp.org/learn/)
+- [freecodecamp](https://chinese.freecodecamp.org/learn/)
 - [CS学习路线](https://github.com/izackwu/TeachYourselfCS-CN)
 ## 机器学习
 -  吴恩达老师：英文coursera机器学习、深度学习 
