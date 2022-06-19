@@ -5,6 +5,9 @@
 - [CS学习路线](https://github.com/izackwu/TeachYourselfCS-CN)
 ## 机器学习
 -  吴恩达老师：英文coursera机器学习、深度学习 
+   - [课程笔记mark](https://sanzo.top/Default/ml-AndrewNg/)
+   - https://github.com/PlayPurEo/ML-and-DL
+   - [笔记代码实现](https://github.com/yoyoyohamapi/mit-ml)
 -  [李宏毅老师深度学习课程录像，历年课件和作业代码 ](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php) 
 -  项目学习网站
    - https://github.com/apachecn/ailearning
