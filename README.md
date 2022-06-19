@@ -4,7 +4,7 @@
 - [freecodecamp](https://chinese.freecodecamp.org/learn/)
 - [CS学习路线](https://github.com/izackwu/TeachYourselfCS-CN)
 ## 机器学习
--  吴恩达老师：英文coursera机器学习、深度学习 
+-  [吴恩达机器学习、深度学习](https://www.bilibili.com/video/BV164411b7dx?spm_id_from=333.337.search-card.all.click) 
    - [课程笔记mark](https://sanzo.top/Default/ml-AndrewNg/)
    - https://github.com/PlayPurEo/ML-and-DL
    - [笔记代码实现](https://github.com/yoyoyohamapi/mit-ml)
