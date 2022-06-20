@@ -6,6 +6,7 @@
 ## 机器学习
 -  [吴恩达机器学习、深度学习](https://www.bilibili.com/video/BV164411b7dx?spm_id_from=333.337.search-card.all.click) 
    - [课程笔记mark](https://sanzo.top/Default/ml-AndrewNg/)
+   - https://momodel.github.io/mlbook/01-1.html
    - https://github.com/PlayPurEo/ML-and-DL
    - [笔记代码实现](https://github.com/yoyoyohamapi/mit-ml)
 -  [李宏毅老师深度学习课程录像，历年课件和作业代码 ](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php) 
