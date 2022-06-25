@@ -15,6 +15,7 @@
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
 ## Python
 - [廖雪峰python网站](https://www.liaoxuefeng.com)
+- [利用python进行数据分析ebook]https://wizardforcel.gitbooks.io/pyda-2e/content/2.html
 - ai for everybody课程
 - [数据分析numpy 100题](https://www.yanxishe.com/columnDetail/24784)
 - [pandas 100题](https://www.yanxishe.com/columnDetail/17112)
