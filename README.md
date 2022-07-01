@@ -19,4 +19,4 @@
 - ai for everybody课程
 - [数据分析numpy 100题](https://www.yanxishe.com/columnDetail/24784)
 - [pandas 100题](https://www.yanxishe.com/columnDetail/17112)
-
+- [pandas 50题](https://zhuanlan.zhihu.com/p/94096219)
