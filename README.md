@@ -12,6 +12,7 @@
    - https://github.com/apachecn/ailearning
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
    - https://github.com/PlayPurEo/ML-and-DL
+- [梗直哥随笔](https://gengzhige-essay.readthedocs.io/index.html)
 ## Python
 - [廖雪峰python网站](https://www.liaoxuefeng.com)
 - [利用python进行数据分析.ebook](https://wizardforcel.gitbooks.io/pyda-2e/content/2.html)
