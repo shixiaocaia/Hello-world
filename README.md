@@ -9,6 +9,7 @@
 - [吴恩达机器学习](https://www.bilibili.com/video/BV164411b7dx?spm_id_from=333.337.search-card.all.click) 
    - [课程笔记](https://momodel.github.io/mlbook/01-1.html)
 - [吴恩达深度学习](https://www.bilibili.com/video/BV164411m79z?from=search&seid=16176262713135165314&vd_source=98edb319e59affabde4d9cb2731826cd)
+   - [课程作业](https://blog.csdn.net/u013733326/article/details/79827273)
 -  [刘建平博客](https://www.cnblogs.com/pinard/)
    - [Github链接](https://github.com/ljpzzz/machinelearning)
 - [入门深度学习框架pytorch](https://www.bilibili.com/video/BV1Vx411j7kT?from=search&seid=7491460719709968323&vd_source=98edb319e59affabde4d9cb2731826cd)
