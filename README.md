@@ -5,10 +5,14 @@
 - [CS学习路线](https://github.com/izackwu/TeachYourselfCS-CN)
 - [codesheep](https://www.r2coding.com/#/)
 ## 机器学习
--  [吴恩达机器学习、深度学习](https://www.bilibili.com/video/BV164411b7dx?spm_id_from=333.337.search-card.all.click) 
-   - [课程笔记](https://momodel.github.io/mlbook/01-1.html)
+- [数学基础](https://www.bilibili.com/video/BV1RW411m7WE?from=search&seid=8027027267495542131&vd_source=98edb319e59affabde4d9cb2731826cd)
+-  [吴恩达]
+   - [机器学习](https://www.bilibili.com/video/BV164411b7dx?spm_id_from=333.337.search-card.all.click) 
+      - [课程笔记](https://momodel.github.io/mlbook/01-1.html)
+   - [深度学习](https://www.bilibili.com/video/BV164411m79z?from=search&seid=16176262713135165314&vd_source=98edb319e59affabde4d9cb2731826cd)
 -  [刘建平博客](https://www.cnblogs.com/pinard/)
    - [Github链接](https://github.com/ljpzzz/machinelearning)
+- [入门深度学习框架pytorch](https://www.bilibili.com/video/BV1Vx411j7kT?from=search&seid=7491460719709968323&vd_source=98edb319e59affabde4d9cb2731826cd)
 -  项目学习网站
    - https://github.com/apachecn/ailearning
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
