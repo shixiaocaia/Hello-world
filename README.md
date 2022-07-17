@@ -13,6 +13,7 @@
 -  [刘建平博客](https://www.cnblogs.com/pinard/)
    - [Github链接](https://github.com/ljpzzz/machinelearning)
 - [入门深度学习框架pytorch](https://www.bilibili.com/video/BV1Vx411j7kT?from=search&seid=7491460719709968323&vd_source=98edb319e59affabde4d9cb2731826cd)
+- [李宏毅老师深度学习课程录像，历年课件和作业代码 ](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php) 
 -  项目学习网站
    - https://github.com/apachecn/ailearning
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
