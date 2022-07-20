@@ -19,7 +19,7 @@
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
    - https://github.com/PlayPurEo/ML-and-DL
 - [梗直哥随笔](https://gengzhige-essay.readthedocs.io/index.html)
-- [王木头爱科学](https://space.bilibili.com/504715181/video)
+- [王木头爱科学视频](https://space.bilibili.com/504715181/video)
 ## Python
 - [廖雪峰python网站](https://www.liaoxuefeng.com)
 - [利用python进行数据分析.ebook](https://wizardforcel.gitbooks.io/pyda-2e/content/2.html)
